@@ -9,7 +9,7 @@ const generateMarkdown = (data) => {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
+  * [Contributing](#contributor)
   * [Tests](#tests)
   * [Questions](#questions)
   # Installation
@@ -19,8 +19,7 @@ const generateMarkdown = (data) => {
   # License
   This project is licensed under the ${data.License} license. 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  # Contributing
-  ​Contributors: ${data.Contributing}
+  # Contributor: ${data.Contributing}
   # Tests
   The following is needed to test this app: ${data.Tests}
   # Questions
